@@ -37,8 +37,6 @@ Consistent improvement with augmentation & scheduler
 
 Strong visual interpretability using Grad-CAM
 
-(You may add the training plot images + Grad-CAM images to the repo.)
-
 🗂 Dataset
 
 Caltech-101
